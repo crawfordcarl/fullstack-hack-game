@@ -9,7 +9,7 @@
 .vertical-line {
   position: absolute;
   top: 0;
-  background: white;
+  background: #d3d3d3;
   opacity: 0.5;
   height: 410px;
   width: 15px;
@@ -18,7 +18,7 @@
 .horizontal-line {
   position: absolute;
   top: 0;
-  background: white;
+  background: #d3d3d3;
   opacity: 0.5;
   width: 410px;
   height: 15px;
